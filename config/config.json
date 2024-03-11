@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "HubProsper | Optimize Your HubSpot",
+    "base_url": "/",
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo.png",
+    "logo_width": "160",
+    "logo_height": "40",
+    "logo_text": "HubProsper"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Committed to helping you get the most from your HubSpot or other CRM",
+    "copyright": "Developed by Jack Epner (jackepner.com)"
+  },
+
+  "metadata": {
+    "meta_author": "Jack Epner",
+    "meta_image": "",
+    "meta_description": "HubSpot expertise"
+  }
+}
