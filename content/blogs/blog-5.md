@@ -1,7 +1,7 @@
 ---
 title: "Segmenting your HubSpot is critical"
 description: "Harnessing the Power of Customer Segmentation with HubSpot: Elevate Your Email Campaigns"
-image: "/images/blog-4.jpg"
+image: "/images/blog-1.jpg"
 date: 2023-08-04T05:00:00Z
 draft: false
 ---

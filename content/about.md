@@ -16,6 +16,4 @@ Welcome to HubProsper, where we bring over a decade of experience in sales and m
 - **Reliability**: You can trust us to deliver on time and on budget, with transparent communication every step of the way.
 - **Long-Term Partnerships**: We value long-term relationships and are committed to helping our clients succeed in the long-run.
 
-Whether you're a small startup or a large corporation, we are here to help you achieve your goals. Join countless satisfied clients who have experienced the [Business Name] difference.
-
 Contact us today to learn more about how we can support your business!

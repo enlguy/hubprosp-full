@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Data Cleansing"
 description: "Using data cleansing to best leverage your records"
-image: "/images/blog-1.jpg"
+image: "/images/blog-3.jpg"
 date: 2023-04-04T05:00:00Z
 draft: false
 ---
