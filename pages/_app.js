@@ -52,6 +52,10 @@ const App = ({ Component, pageProps }) => {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
+        <meta
+          name="google-site-verification"
+          content="5RGjfkVdARpCj1L3v4XxlUn6xNfBV9S1oqabdEK95Fs"
+        />
       </Head>
       <Component {...pageProps} />
     </>
