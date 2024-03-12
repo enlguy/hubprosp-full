@@ -43,8 +43,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Transform your HubSpot CRM into a revenue-generating powerhouse"
+    content: "Our specialized optimization strategies will give you a competitive edge in the B2B landscape with our comprehensive services. Harness data-driven insights, automate tasks, and close deals faster than ever before."
     images:
       - "/images/service-slide-1.png"
     button:
@@ -52,8 +52,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Experience that matters"
+    content: "With more than a decade helping businesses put an end to lost revenues, we draw on deep experience in sales and marketing to make a difference."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -63,8 +63,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "The customer matters"
+    content: "We succeed when you succeed.  That's why we prioritize your needs, goals, and aspirations above all else. We believe in forging strong partnerships built on trust, collaboration, and mutual growth. Your satisfaction is our driving force, and we're committed to going above and beyond to exceed your expectations."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
