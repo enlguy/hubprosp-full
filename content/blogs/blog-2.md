@@ -1,7 +1,7 @@
 ---
 title: CRM Optimization
 description: "Optimizing your CRM is critical."
-image: "/images/blog-2.jpg"
+image: "/images/blog-2.png"
 date: 2024-01-02T05:00:00Z
 draft: false
 ---
