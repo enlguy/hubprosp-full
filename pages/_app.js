@@ -4,6 +4,8 @@ import Head from "next/head";
 import { useEffect, useState } from "react";
 import TagManager from "react-gtm-module";
 import "styles/style.scss";
+import Script from "next/script";
+import Analytics from "./analytics/Analytics";
 
 const App = ({ Component, pageProps }) => {
   // default theme setup
@@ -36,6 +38,14 @@ const App = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
+        {process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS ? (
+          <Analytics ga_id={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS} />
+        ) : null}
+        <Script
+          strategy="lazyOnload"
+          src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+        />
+
         {/* google font css */}
         <link
           rel="preconnect"
