@@ -72,7 +72,7 @@ const Social = ({ source, className }) => {
             aria-label="facebook"
             href={facebook}
             target="_blank"
-            rel="noopener noreferrer nofollow"
+            rel="noopener noreferrer"
           >
             <IoLogoFacebook />
           </a>
