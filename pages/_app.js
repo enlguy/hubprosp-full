@@ -38,14 +38,6 @@ const App = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        {process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS ? (
-          <Analytics ga_id={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS} />
-        ) : null}
-        <Script
-          strategy="lazyOnload"
-          src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
-        />
-
         {/* google font css */}
         <link
           rel="preconnect"
@@ -67,6 +59,14 @@ const App = ({ Component, pageProps }) => {
           content="5RGjfkVdARpCj1L3v4XxlUn6xNfBV9S1oqabdEK95Fs"
         />
       </Head>
+      {process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS ? (
+        <Analytics ga_id={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS} />
+      ) : null}
+      <Script
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+      />
+
       <Component {...pageProps} />
     </>
   );
