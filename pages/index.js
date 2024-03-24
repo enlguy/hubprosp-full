@@ -10,7 +10,8 @@ import "swiper/swiper.min.css";
 import { getListPage } from "../lib/contentParser";
 
 const Home = ({ frontmatter }) => {
-  const { banner, feature, services, workflow, call_to_action } = frontmatter;
+  const { banner, feature, services, workflow, casestudy, call_to_action } =
+    frontmatter;
   const { title } = config.site;
 
   return (
@@ -153,6 +154,21 @@ const Home = ({ frontmatter }) => {
           width={1920}
           height={296}
         />
+      </section>
+
+      {/* casestudy */}
+      <section className="section pb-0">
+        <div className="mb-8 text-center">
+          {markdownify(
+            casestudy.title,
+            "h2",
+            "mx-auto max-w-[400px] font-bold leading-[44px]"
+          )}
+          {markdownify(casestudy.description, "h3", "mt-3")}
+        </div>
+        <div className="mx-10">
+          {markdownify(casestudy.content, "mt-10", "text-left")}
+        </div>
       </section>
 
       {/* Cta */}
