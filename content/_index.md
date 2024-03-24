@@ -99,7 +99,7 @@ casestudy:
   
   &nbsp;  
     
-We also created and implemented a lead scoring system that would let them see, at a high level, which leads were more valuable to the company, and should be pursued at a higher priority level."
+We also created and implemented a lead scoring system that would let them see, at a high level, which leads were more valuable to the company, and should be pursued at a higher priority level.  Analyzing the data (now that we could get accurate reports), we looked at revenues across geographies, company size, and more, and also built in behavioral factors such as time spent on site, how many emails were being opened, etc."
 
 # call_to_action
 call_to_action:
