@@ -9,7 +9,7 @@ banner:
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: What We Can Do For You
   features:
     - name: "Optimized Workflows"
       icon: "/images/workflow.svg"
