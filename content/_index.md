@@ -1,7 +1,7 @@
 ---
 banner:
   title: You are losing as much as 30% ARR if your HubSpot is not optimized
-  content: According to a study by Gartner, businesses lose between 10% and 30% of their potential ARR simply by not using HubSpot to its full potential.
+  content: We stop the leakage, plug up holes in your data, and help you to stop leaving money on the table.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
