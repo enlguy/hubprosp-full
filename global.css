@@ -34,7 +34,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2196f3;
+  background-color: #0aa8a7;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -118,7 +118,7 @@ hr {
 
 .button-white {
   color: white;
-  background: linear-gradient(hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+  background: linear-gradient(hsl(180, 85%, 43%), hsl(181, 89%, 35%));
 }
 
 .button-blue {
@@ -135,7 +135,7 @@ hr {
 
 .price-pro {
   color: white;
-  background: linear-gradient(hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+  background: linear-gradient(hsl(180, 85%, 43%), hsl(181, 89%, 35%));
 }
 
 #master-price-annual {
