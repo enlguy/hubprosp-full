@@ -9,6 +9,10 @@
       "url": "/blogs"
     },
     {
+      "name": "Packages",
+      "url": "/packages"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     },
