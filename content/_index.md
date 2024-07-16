@@ -1,6 +1,6 @@
 ---
 banner:
-  title: You are losing as much as 30% ARR if your HubSpot is not optimized
+  title: We increase ARR 30% by optimizing your CRM
   content: We stop the leakage, plug up holes in your data, and help you to stop leaving money on the table.
   image: /images/banner-art.svg
   button:
