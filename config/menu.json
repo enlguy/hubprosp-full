@@ -9,6 +9,10 @@
       "url": "/blogs"
     },
     {
+      "name": "Case Study",
+      "url": "/casestudy"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     },

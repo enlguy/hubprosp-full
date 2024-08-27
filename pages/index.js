@@ -157,7 +157,7 @@ const Home = ({ frontmatter }) => {
       </section>
 
       {/* casestudy */}
-      <section className="section pb-0">
+      {/* <section className="section pb-0">
         <div className="mb-8 text-center">
           {markdownify(
             casestudy.title,
@@ -169,7 +169,7 @@ const Home = ({ frontmatter }) => {
         <div className="mx-10">
           {markdownify(casestudy.content, "mt-10", "text-left")}
         </div>
-      </section>
+      </section> */}
 
       {/* Cta */}
       <Cta cta={call_to_action} />
