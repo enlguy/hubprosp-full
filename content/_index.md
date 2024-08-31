@@ -1,7 +1,7 @@
 ---
 banner:
   title: We increase ARR 30% by optimizing your CRM
-  content: We stop the leakage, plug up holes in your data, and help you to stop leaving money on the table.
+  content: When your data is inconsistent, and not used efficiently, you are losing revenue opportunities.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
