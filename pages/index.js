@@ -17,7 +17,7 @@ const Home = ({ frontmatter }) => {
   return (
     <Base title={title}>
       {/* Banner */}
-      <section className="section pb-[50px]">
+      <section className="section pb-[40px]">
         <div className="container">
           <div className="row text-center">
             <div className="mx-auto lg:col-10">
@@ -138,7 +138,7 @@ const Home = ({ frontmatter }) => {
         );
       })}
 
-      {/* workflow */}
+      {/*   *workflow *
       <section className="section pb-0">
         <div className="mb-8 text-center">
           {markdownify(
@@ -154,7 +154,7 @@ const Home = ({ frontmatter }) => {
           width={1920}
           height={296}
         />
-      </section>
+      </section> */}
 
       {/* casestudy */}
       {/* <section className="section pb-0">
