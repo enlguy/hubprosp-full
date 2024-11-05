@@ -1,8 +1,8 @@
 ---
 banner:
   title: We increase ARR 30% by optimizing your CRM
-  content: When your data is inconsistent, and not used efficiently, you are losing revenue opportunities.
-  image: /images/banner-art.svg
+  content: When your data is inconsistent, and not used efficiently, you are losing revenue opportunities.  We turn data into human potential for connection.
+  image: /images/together.jpg
   button:
     label: "Contact Us"
     link: "/contact"
@@ -66,9 +66,7 @@ services:
   - title: "The customer matters"
     content: "We succeed when you succeed.  That's why we prioritize your needs, goals, and aspirations above all else. We believe in forging strong partnerships built on trust, collaboration, and mutual growth. Your satisfaction is our driving force, and we're committed to going above and beyond to exceed your expectations."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/treehands.jpg"
     button:
       enable: true
       label: Check it out
