@@ -11,9 +11,9 @@ banner:
 feature:
   title: What We Can Do For You
   features:
-    - name: "Optimized Workflows"
-      icon: "/images/workflow.svg"
-      content: "Automations that leverage data and save time"
+    - name: "Email Campaigning"
+      icon: "/images/mail.svg"
+      content: "Outreach that drives conversions"
     - name: "Segmentation"
       icon: "/images/oop.svg"
       content: "Helping you better personalize your outreach through data"

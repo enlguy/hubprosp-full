@@ -35,8 +35,8 @@ const Home = ({ frontmatter }) => {
               <Image
                 className="mx-auto mt-12"
                 src={banner.image}
-                width={750}
-                height={390}
+                width={8000}
+                height={420}
                 alt="banner image"
                 priority={true}
               />
@@ -49,9 +49,9 @@ const Home = ({ frontmatter }) => {
       <section className="section bg-theme-light">
         <div className="container">
           <div className="text-center">
-            <h2>{markdownify(feature.title)}</h2>
+            <h2 className="mr-10 mt-10">{markdownify(feature.title)}</h2>
           </div>
-          <div className="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className=" mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
             {feature.features.map((item, i) => (
               <div
                 className="feature-card rounded-xl bg-white p-5 pb-8 text-center"
