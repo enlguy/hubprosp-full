@@ -1,6 +1,6 @@
 ---
 banner:
-  title: We increase ARR 30% by optimizing your CRM
+  title: We increase your ARR 30% by optimizing your CRM
   content: When your data is inconsistent, and not used efficiently, you are losing revenue opportunities.  We turn data into human potential for connection.
   image: /images/together.jpg
   button:
@@ -81,7 +81,7 @@ workflow:
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Just click the button and submit your contact information - we'll be in touch within 24 hours to setup a free, no-obligation call.
+  content: Just click the button and submit your contact information along with any inquiry - we'll be in touch within 24 hours.
   image: "/images/cta.svg"
   button:
     enable: true
