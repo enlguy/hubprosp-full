@@ -1,4 +1,5 @@
 ---
+description: "How optimizing HubSpot turned a global staffing agency from zero to hero"
 layout: "default"
 ---
 
@@ -18,3 +19,5 @@ Once we had complete and consistent data across all records, we de-duplicated ag
 &nbsp;
 
 We also created and implemented a lead scoring system that would let the organization see, at a high level, which leads were more valuable and likely to convert and so should be pursued at a higher priority level. Analyzing the data (now that we could get accurate reports), we looked at revenues across geographies, company size, and more, and also built in behavioral factors such as time spent on site, how many emails were being opened, etc."
+
+![image of crm on laptop](/images/office-highfive.jpg)
