@@ -11,7 +11,7 @@ function Contact() {
   return (
     <section className="section">
       <div className="container">
-        <div className="section row pb-0">
+        <div className="section row w-full pb-0">
           <div className="col-12 md:col-6 lg:col-7">
             <form onSubmit={handleSubmit}>
               <div className="mb-3">
