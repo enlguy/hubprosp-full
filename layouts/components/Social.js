@@ -354,7 +354,7 @@ const Social = ({ source, className }) => {
           </a>
         </li>
       )}
-      {skype && (
+      {/*  {skype && (
         <li className="inline-block">
           <a
             aria-label="skype"
@@ -365,7 +365,7 @@ const Social = ({ source, className }) => {
             <IoLogoSkype />
           </a>
         </li>
-      )}
+      )}  */}
       {website && (
         <li className="inline-block">
           <a
