@@ -2,7 +2,7 @@
 banner:
   title: We increase your ARR 30% by optimizing your CRM
   content: When your data is inconsistent, and not used efficiently, you are losing revenue opportunities.  We turn data into human potential for connection.
-  image: /images/together.jpg
+  image: /images/hero3.jpg
   button:
     label: "Contact Us"
     link: "/contact"
