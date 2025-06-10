@@ -1,7 +1,7 @@
 ---
 banner:
   title: We increase your ARR 30% by optimizing your CRM
-  content: When your data is inconsistent, and not used efficiently, you are losing revenue opportunities.  We turn data into human potential for connection.
+  content: When your data is inconsistent, and not used efficiently, you are losing revenue opportunities.  We turn data into potential for connection.
   image: /images/hero3.jpg
   button:
     label: "Contact Us"
@@ -23,9 +23,9 @@ feature:
     - name: "Value for Money"
       icon: "/images/love.svg"
       content: "Positive ROI guaranteed"
-    - name: "Save Time"
+    - name: "Automation"
       icon: "/images/speedometer.svg"
-      content: "Proper automations can save 100+ manhours each month"
+      content: "Strategic workflows can save 100+ manhours each month"
     - name: "Integrations"
       icon: "/images/integration.svg"
       content: "Integrating your HubSpot with any third-party applications"
