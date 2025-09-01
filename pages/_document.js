@@ -7,6 +7,21 @@ const Document = () => {
   return (
     <Html lang="en">
       <Head>
+         {/* Google Analytics */}
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-VQWXVYYRLZ"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-VQWXVYYRLZ');
+            `,
+          }}
+        />
         {/* favicon */}
         <link
           rel="shortcut icon"
